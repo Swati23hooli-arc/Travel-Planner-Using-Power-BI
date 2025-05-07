@@ -29,30 +29,6 @@ Built using Microsoft Power BI, this capstone project uses multiple datasets to 
 
 ---
 
-## 📊 Dashboard Features
-
-### ✅ 1. **User Wishlist and Preferences**
-- Filter destinations by user interests, season, and budget.
-- Tailor recommendations to user profiles and goals.
-
-### ✅ 2. **Cost Comparison**
-- Compare estimated travel costs across destinations.
-- Use budget filters to identify affordable options.
-
-### ✅ 3. **Season & Weather Analysis**
-- Determine the best months to visit each location.
-- Avoid poor weather and align trips with ideal seasons.
-
-### ✅ 4. **User Reviews and Ratings**
-- View star ratings and feedback for each place.
-- Make better travel choices based on user satisfaction.
-
-### ✅ 5. **Travel History Insights**
-- Understand where users have already been.
-- Get suggestions based on travel gaps and preferences.
-
----
-
 ## 🖼️ Dashboard Previews
 
 ### 🗺️ Overview Dashboard
@@ -84,6 +60,31 @@ Built using Microsoft Power BI, this capstone project uses multiple datasets to 
 *Aggregates user-generated ratings and reviews for each destination to support better choices.*
 
 ---
+
+## 📊 Dashboard Features
+
+### ✅ 1. **User Wishlist and Preferences**
+- Filter destinations by user interests, season, and budget.
+- Tailor recommendations to user profiles and goals.
+
+### ✅ 2. **Cost Comparison**
+- Compare estimated travel costs across destinations.
+- Use budget filters to identify affordable options.
+
+### ✅ 3. **Season & Weather Analysis**
+- Determine the best months to visit each location.
+- Avoid poor weather and align trips with ideal seasons.
+
+### ✅ 4. **User Reviews and Ratings**
+- View star ratings and feedback for each place.
+- Make better travel choices based on user satisfaction.
+
+### ✅ 5. **Travel History Insights**
+- Understand where users have already been.
+- Get suggestions based on travel gaps and preferences.
+
+---
+
 
 ## 🛠 Tools & Technologies
 

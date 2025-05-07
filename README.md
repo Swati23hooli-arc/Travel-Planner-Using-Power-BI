@@ -16,38 +16,6 @@ Built using Microsoft Power BI, this capstone project uses multiple datasets to 
 
 ---
 
-## 🖼️ Dashboard Previews
-
-### 🗺️ Overview Dashboard
-![Overview Dashboard](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Overview%20Dashboard.png)  
-*A high-level snapshot of destinations, preferences, and filters to guide users in the planning process.*
-
----
-
-### 📍 Destination Insights
-![Destination Insights](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Destination%20Insights.png)  
-*Details about each destination including average ratings, seasonality, estimated costs, and popularity.*
-
----
-
-### 👥 Personalizing Journeys with Data
-![Personalized View](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Personalizing%20Journeys%20with%20Data.png)  
-*Displays personalized suggestions based on user wishlist, budget preferences, and season filters.*
-
----
-
-### 🌍 Travel Patterns
-![Travel Patterns](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Travel%20Patterns.png)  
-*Visualizes user travel history and highlights unexplored or trending locations.*
-
----
-
-### 🌟 Review & Ratings
-![Review & Ratings](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Review%20%26%20Ratings.png)  
-*Aggregates user-generated ratings and reviews for each destination to support better choices.*
-
----
-
 ## 📁 Project Files
 
 | File | Description |
@@ -85,6 +53,38 @@ Built using Microsoft Power BI, this capstone project uses multiple datasets to 
 
 ---
 
+## 🖼️ Dashboard Previews
+
+### 🗺️ Overview Dashboard
+![Overview Dashboard](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Overview%20Dashboard.png)  
+*A high-level snapshot of destinations, preferences, and filters to guide users in the planning process.*
+
+---
+
+### 📍 Destination Insights
+![Destination Insights](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Destination%20Insights.png)  
+*Details about each destination including average ratings, seasonality, estimated costs, and popularity.*
+
+---
+
+### 👥 Personalizing Journeys with Data
+![Personalized View](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Personalizing%20Journeys%20with%20Data.png)  
+*Displays personalized suggestions based on user wishlist, budget preferences, and season filters.*
+
+---
+
+### 🌍 Travel Patterns
+![Travel Patterns](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Travel%20Patterns.png)  
+*Visualizes user travel history and highlights unexplored or trending locations.*
+
+---
+
+### 🌟 Review & Ratings
+![Review & Ratings](https://github.com/Swati23hooli-arc/Travel-Planner-Using-Power-BI/raw/main/Review%20%26%20Ratings.png)  
+*Aggregates user-generated ratings and reviews for each destination to support better choices.*
+
+---
+
 ## 🛠 Tools & Technologies
 
 - **Power BI Desktop**
@@ -112,8 +112,10 @@ Built using Microsoft Power BI, this capstone project uses multiple datasets to 
 
 **Swati Hooli**  
 Bachelor of Computer Applications | Data Science Enthusiast  
-📬 Contact via LinkedIn : www.linkedin.com/in/swatihooli
-
-
+📬 Contact via GitHub or LinkedIn
 
 ---
+
+## 📄 License
+
+This project is intended for academic and educational use only.
